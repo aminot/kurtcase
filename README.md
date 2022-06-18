@@ -1,2 +1,2 @@
-(https://user-images.githubusercontent.com/26299182/174452544-3a3c1f29-f83b-4174-843f-ae6fe84b93f3.png)
+![case](https://user-images.githubusercontent.com/26299182/174452588-1210afcc-f9bd-435b-b0bd-2dcc0106d64c.png)
 app.js içindeki kodları https://snack.expo.dev sitesine girip yapıştırırsanız görseldeki gibi test edebilirsiniz.
